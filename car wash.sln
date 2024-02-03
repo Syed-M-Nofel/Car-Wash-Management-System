@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "car wash", "car wash\car wash.csproj", "{EF65CBED-11D4-4FA6-874B-47B48C6E1B0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{E826E6CA-BCE8-4D31-BD23-22ADDCCDF661}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\shera\Downloads\add-user (1).png = C:\Users\shera\Downloads\add-user (1).png
+		C:\Users\shera\Downloads\cancel.png = C:\Users\shera\Downloads\cancel.png
+		C:\Users\shera\Downloads\car (1).png = C:\Users\shera\Downloads\car (1).png
+		C:\Users\shera\Downloads\car-service.png = C:\Users\shera\Downloads\car-service.png
+		C:\Users\shera\Downloads\cash in hand.png = C:\Users\shera\Downloads\cash in hand.png
+		C:\Users\shera\Downloads\cash.png = C:\Users\shera\Downloads\cash.png
+		C:\Users\shera\Downloads\check-mark.png = C:\Users\shera\Downloads\check-mark.png
+		C:\Users\shera\Downloads\clean.png = C:\Users\shera\Downloads\clean.png
+		C:\Users\shera\Downloads\Cost of good.png = C:\Users\shera\Downloads\Cost of good.png
+		C:\Users\shera\Downloads\customer.png = C:\Users\shera\Downloads\customer.png
+		C:\Users\shera\Downloads\dashboard (1).png = C:\Users\shera\Downloads\dashboard (1).png
+		C:\Users\shera\Downloads\decrease.png = C:\Users\shera\Downloads\decrease.png
+		C:\Users\shera\Downloads\delete.png = C:\Users\shera\Downloads\delete.png
+		C:\Users\shera\Downloads\edit.png = C:\Users\shera\Downloads\edit.png
+		C:\Users\shera\Downloads\employer.png = C:\Users\shera\Downloads\employer.png
+		C:\Users\shera\Downloads\login.png = C:\Users\shera\Downloads\login.png
+		C:\Users\shera\Downloads\logout.png = C:\Users\shera\Downloads\logout.png
+		C:\Users\shera\Downloads\money-flow.png = C:\Users\shera\Downloads\money-flow.png
+		C:\Users\shera\Downloads\report.png = C:\Users\shera\Downloads\report.png
+		C:\Users\shera\Downloads\sales.png = C:\Users\shera\Downloads\sales.png
+		C:\Users\shera\Downloads\search-interface-symbol.png = C:\Users\shera\Downloads\search-interface-symbol.png
+		C:\Users\shera\Downloads\service.png = C:\Users\shera\Downloads\service.png
+		C:\Users\shera\Downloads\settings.png = C:\Users\shera\Downloads\settings.png
+		C:\Users\shera\Downloads\up-arrow.png = C:\Users\shera\Downloads\up-arrow.png
+		C:\Users\shera\Downloads\withdrawal.png = C:\Users\shera\Downloads\withdrawal.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF65CBED-11D4-4FA6-874B-47B48C6E1B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF65CBED-11D4-4FA6-874B-47B48C6E1B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF65CBED-11D4-4FA6-874B-47B48C6E1B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF65CBED-11D4-4FA6-874B-47B48C6E1B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069BCD91-3F96-4CA2-BB38-3FC94E2497B5}
+	EndGlobalSection
+EndGlobal

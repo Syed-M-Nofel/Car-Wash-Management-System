@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployerModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCostGoodSold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageVehicleType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettlePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -42,6 +42,7 @@ The employer’s option in the dashboard displays a table that has all the data 
 **2.4.4	CRUD operations for Customer Data:**
 The dashboard also has a customer’s options that displays all the customer’s details in a table that can be edited and also deleted.
  
+
 **2.4.5	CRUD operations for Services Data:**
 The services option in the dashboard displays all the services with their respective prices that can also be edited and deleted.
 

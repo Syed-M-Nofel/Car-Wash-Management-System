@@ -7,13 +7,21 @@ One of the primary functionalities involves generating Revenue, Cost of Goods So
 
 **2.	Main Features:**
 Car wash management system is a desktop application built in C# language. The main features of the project are as follows:
+
 •	Login.
+
 •	User-Friendly Interface.
+
 •	Dashboard containing Employee Details, Customer details, Service Details.
+
 •	Payment method.
+
 •	CRUD Operation for managing vehicle data, Goods Sold, Employee data, Customer Data, Services Data, Cash, Report, Revenue Generated, Gross Profit, Company Data.
+
 •	Lists, and service records.
+
 •	Graphical Representation to view sales forecast graphs and charts.
+
 •	Report generation (Last 30 days/Weekly/Daily).
 
 
